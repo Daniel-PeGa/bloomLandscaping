@@ -1,0 +1,39 @@
+.colorOG {
+  background: aquamarine;
+}
+
+.logo {
+  width: 50px;
+  border-radius: 5%;
+}
+
+.head {
+  margin: 4%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.imageWidth {
+  max-width: 200px;
+}
+
+.noList {
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+  margin: 35px 0 20px 0 !important;
+}
