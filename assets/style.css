@@ -1,7 +1,10 @@
-
+*{
+  background-color: #c8f787;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .logo {
-  width: 50px;
+  width: 100px;
   border-radius: 5%;
 }
 
