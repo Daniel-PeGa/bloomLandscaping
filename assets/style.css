@@ -38,3 +38,22 @@ h1 {
   text-align: center;
   margin: 35px 0 20px 0 !important;
 }
+
+.w125 {
+  width: 125px;
+}
+
+.serviceItem {
+  background-color: #47de47;
+  border-radius: 25%;
+  max-width: 125px;
+  height: 74px;
+  margin: 10px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
