@@ -3,6 +3,10 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.m2 {
+  margin: 2%;
+}
+
 .logo {
   width: 100px;
   border-radius: 5%;
@@ -48,7 +52,6 @@ h1 {
   border-radius: 25%;
   max-width: 125px;
   height: 74px;
-  margin: 10px;
   text-align: center;
   align-items: center;
   display: flex;
